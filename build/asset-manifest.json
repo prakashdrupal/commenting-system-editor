@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/commenting-system-editor/static/css/main.91859a9a.chunk.css",
+    "main.js": "/commenting-system-editor/static/js/main.5329982b.chunk.js",
+    "main.js.map": "/commenting-system-editor/static/js/main.5329982b.chunk.js.map",
+    "runtime-main.js": "/commenting-system-editor/static/js/runtime-main.335d30c1.js",
+    "runtime-main.js.map": "/commenting-system-editor/static/js/runtime-main.335d30c1.js.map",
+    "static/css/2.150d169a.chunk.css": "/commenting-system-editor/static/css/2.150d169a.chunk.css",
+    "static/js/2.2015c2d5.chunk.js": "/commenting-system-editor/static/js/2.2015c2d5.chunk.js",
+    "static/js/2.2015c2d5.chunk.js.map": "/commenting-system-editor/static/js/2.2015c2d5.chunk.js.map",
+    "static/js/3.0089cacb.chunk.js": "/commenting-system-editor/static/js/3.0089cacb.chunk.js",
+    "static/js/3.0089cacb.chunk.js.map": "/commenting-system-editor/static/js/3.0089cacb.chunk.js.map",
+    "index.html": "/commenting-system-editor/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/commenting-system-editor/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.91859a9a.chunk.css.map": "/commenting-system-editor/static/css/main.91859a9a.chunk.css.map",
+    "static/js/2.2015c2d5.chunk.js.LICENSE.txt": "/commenting-system-editor/static/js/2.2015c2d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.335d30c1.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2015c2d5.chunk.js",
+    "static/css/main.91859a9a.chunk.css",
+    "static/js/main.5329982b.chunk.js"
+  ]
+}
